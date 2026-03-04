@@ -1,6 +1,6 @@
 # Hi, I'm Augusto Duarte Farias!
 
-I am a **Backend Developer** and an **Applied and Computational Mathematics** student at the Federal University of Goiás (UFG). My profile combines solid experience in software engineering—focused on ERPs and APIs—with a deep academic interest in cryptography and financial modeling.
+I am a **Backend Developer** and an **Applied and Computational Mathematics** student at the Federal University of Goiás (UFG). My profile combines solid experience in software engineering, focused on ERPs and APIs, with a deep academic interest in cryptography and financial modeling.
 
 ### Key Strengths & Qualities
 
