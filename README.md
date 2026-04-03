@@ -24,4 +24,6 @@ I am a **Backend Developer** and an **Applied and Computational Mathematics** st
 
 ---
 ### You may find me here as well:
-**[github.com/au-guro](https://github.com/au-guro)**
+UFG: **[github.com/au-guro](https://github.com/au-guro)**
+Work: **[github.com/au-gusto](https://github.com/au-gusto)**
+
